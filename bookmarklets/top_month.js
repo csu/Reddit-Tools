@@ -1,0 +1,1 @@
+javascript:(function(){ var time = 'month'; var str = window.location.toString(); str = str.substring(0, str.indexOf("top/")); str += 'top/?sort=top&t=' + time; window.location = str; })();
