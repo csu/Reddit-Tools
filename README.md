@@ -3,6 +3,10 @@ Reddit-Tools
 
 A few utility scripts I wrote for Reddit.
 
+### Scripts
+#### Bookmarklets
+* `top_<time_range>.js` – bookmarklets to jump to the top page for `time_range`
+
 ### Web App Tools
 * [Evernote Tools](https://github.com/csu/Evernote-Tools)
 * [Fitbit Tools](https://github.com/csu/Fitbit-Tools)
